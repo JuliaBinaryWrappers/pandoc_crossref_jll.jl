@@ -1,25 +1,33 @@
 [[pandoc_crossref]]
-arch = "x86_64"
-git-tree-sha1 = "9272a25095a3629b8617149f68064fbf89c373ed"
+arch = "aarch64"
+git-tree-sha1 = "5d0d8d5e1a46355e79e8133f62993b8469b8fa10"
 os = "macos"
 
     [[pandoc_crossref.download]]
-    sha256 = "a6a240ca53bb4422976e85fc0c6da4e6c65bcbfb2f6ea8e7645a81a8e227ae56"
-    url = "https://github.com/JuliaBinaryWrappers/pandoc_crossref_jll.jl/releases/download/pandoc_crossref-v0.3.11+0/pandoc_crossref.v0.3.11.x86_64-apple-darwin.tar.gz"
+    sha256 = "df53f704626a7f31719cbd9dba0f789128c526ec9306cfcb3d8340b20db39a86"
+    url = "https://github.com/JuliaBinaryWrappers/pandoc_crossref_jll.jl/releases/download/pandoc_crossref-v0.3.12+0/pandoc_crossref.v0.3.12.aarch64-apple-darwin.tar.gz"
 [[pandoc_crossref]]
 arch = "x86_64"
-git-tree-sha1 = "fa109c736e9229e0379f045a3c6535ba2ca39481"
+git-tree-sha1 = "5d0d8d5e1a46355e79e8133f62993b8469b8fa10"
+os = "macos"
+
+    [[pandoc_crossref.download]]
+    sha256 = "df53f704626a7f31719cbd9dba0f789128c526ec9306cfcb3d8340b20db39a86"
+    url = "https://github.com/JuliaBinaryWrappers/pandoc_crossref_jll.jl/releases/download/pandoc_crossref-v0.3.12+0/pandoc_crossref.v0.3.12.x86_64-apple-darwin.tar.gz"
+[[pandoc_crossref]]
+arch = "x86_64"
+git-tree-sha1 = "e32a8fa679fdbdb4d719dc2f9659ed24166ab818"
 libc = "glibc"
 os = "linux"
 
     [[pandoc_crossref.download]]
-    sha256 = "616be42a4d7cda624a7e11ca1fa06cba18068400d53e29fce29eeaa72f9e9642"
-    url = "https://github.com/JuliaBinaryWrappers/pandoc_crossref_jll.jl/releases/download/pandoc_crossref-v0.3.11+0/pandoc_crossref.v0.3.11.x86_64-linux-gnu.tar.gz"
+    sha256 = "d0a4f775028e3d9873a8871a2bc1af47774bfe18632eef8a3cc9eb9d2c72d31d"
+    url = "https://github.com/JuliaBinaryWrappers/pandoc_crossref_jll.jl/releases/download/pandoc_crossref-v0.3.12+0/pandoc_crossref.v0.3.12.x86_64-linux-gnu.tar.gz"
 [[pandoc_crossref]]
 arch = "x86_64"
-git-tree-sha1 = "5cc8d67b3583ce4a1de14bfbce5a4a00702686bd"
+git-tree-sha1 = "2211e4b1b9e0b271128545958f46b8c9f3359d5f"
 os = "windows"
 
     [[pandoc_crossref.download]]
-    sha256 = "989dfd5ec488cdf019985ed0711a0d31e9b4eabab155645b6cf1851aaa326af0"
-    url = "https://github.com/JuliaBinaryWrappers/pandoc_crossref_jll.jl/releases/download/pandoc_crossref-v0.3.11+0/pandoc_crossref.v0.3.11.x86_64-w64-mingw32.tar.gz"
+    sha256 = "f7e9dd02b30cc305a73211d65b0d19b28ed3a6f2ee4c4a09682cdcfe58d78c99"
+    url = "https://github.com/JuliaBinaryWrappers/pandoc_crossref_jll.jl/releases/download/pandoc_crossref-v0.3.12+0/pandoc_crossref.v0.3.12.x86_64-w64-mingw32.tar.gz"
