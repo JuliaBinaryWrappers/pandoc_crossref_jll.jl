@@ -1,6 +1,6 @@
 name = "pandoc_crossref_jll"
 uuid = "f96e3c25-ae70-5588-8d8e-4a7ab3ba4c45"
-version = "3.17.101+0"
+version = "3.17.103+0"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
@@ -11,6 +11,6 @@ Artifacts = "56f22d72-fd6d-98f1-02f0-08ddc0907c33"
 [compat]
 JLLWrappers = "1.2.0"
 julia = "1.6"
-Libdl = "1"
-pandoc_jll = "=3.2.0"
-Artifacts = "1"
+Libdl = "< 0.0.1, 1"
+pandoc_jll = "=3.3.0"
+Artifacts = "< 0.0.1, 1"
